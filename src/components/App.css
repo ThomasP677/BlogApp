@@ -6,14 +6,23 @@
   overflow: scroll;
 }
 
+
 header {
   display: flex;
   justify-content: space-between;
-  background-color: black;
+  background-color: blue;
   color: white;
   grid-column: 1 / span 2;
   padding: 10px 5px;
+  image-rendering: 100%;
+  margin: left 5px;
 }
+image{
+  image-rendering: 100%;
+  align-items: center;
+}
+
+
 
 form {
   padding: 10px;
@@ -56,3 +65,4 @@ article .body {
   color: gold;
   padding: 5px;
 }
+

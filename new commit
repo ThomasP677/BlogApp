@@ -1,0 +1,21 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   .firebase/hosting.YnVpbGQ.cache
+#	new file:   .firebaserc
+#	new file:   .github/workflows/firebase-hosting-merge.yml
+#	new file:   .github/workflows/firebase-hosting-pull-request.yml
+#	new file:   firebase.json
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   src/components/App.css
+#	modified:   src/components/App.js
+#	new file:   src/firebaseConfig.js
+#	modified:   src/services/articleService.js
+#	new file:   src/services/authService.js
+#
